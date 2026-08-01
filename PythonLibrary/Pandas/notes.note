@@ -1,0 +1,14 @@
+// Pandas tutorial 
+
+    --> pandas is an open source, BSD-licenced library providing high-performance, easy-to-use data structures and data analysis tools
+    for the python programming language
+
+    Agenda
+         what is data frames ?
+        --> A DataFrame is a two-dimensional, tabular data structure commonly used in data analysis and manipulation. You can think of it like an Excel spreadsheet or a SQL table, but inside your programming environment (most often Python with pandas).
+
+        🔑 Key Features of a DataFrame
+                Rows and Columns: Data is organized into labeled rows (index) and columns.
+                Heterogeneous Data: Each column can hold different data types (integers, floats, strings, etc.).
+                Indexing: Both rows and columns have labels, making it easy to access and manipulate data.
+                Flexibility: Supports operations like filtering, grouping, merging, reshaping, and statistical analysis.
