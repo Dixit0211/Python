@@ -12,8 +12,3 @@ This repo is a collection of **fundamental Python programs**, **Object-Oriented 
 - To serve as a **learning resource** for beginners exploring Python  
 - To provide **ready-to-use examples** for students preparing for practicals or exams  
 - To showcase **hands-on projects** that apply theory to practice  
-
-## 🛠️ How to Use
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/python-basics-oop-projects.git
