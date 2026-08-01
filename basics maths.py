@@ -1,0 +1,5 @@
+print(23)
+print(23+34)
+print(23*34)
+print(23-34)
+print(23/ 34)
